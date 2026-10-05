@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
-  <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
-    <AssemblyName>SWYF.CustomAI.Panel</AssemblyName>
-  </PropertyGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="index.html" />
-  </ItemGroup>
-</Project>
